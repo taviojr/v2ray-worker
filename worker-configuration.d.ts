@@ -1,4 +1,5 @@
 interface Env {
+	KV_NAME: '22c94fa17d5e4123a79944b0164376d3'
 	// Example binding to KV. Learn more at https://developers.cloudflare.com/workers/runtime-apis/kv/
 	// MY_KV_NAMESPACE: KVNamespace;
 	//
